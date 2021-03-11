@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reg-X</string>
+    <string name="app_version">v.1.0</string>
+    <string name="contact_mail">mahatoky.rasolonirina@gmail.com</string>
+    <string name="string_regex">Regex :</string>
+    <string name="string_test">Test :</string>
+    <string name="str_regular">REGULAR</string>
+    <string name="str_expression">EXPRESSION</string>
+</resources>

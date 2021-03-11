@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_main_content">20dp</dimen>
+    <dimen name="padding_et">10dp</dimen>
+    <dimen name="height_et_regex">50dp</dimen>
+    <dimen name="height_et_test">150dp</dimen>
+    <dimen name="size_tv_logo">26sp</dimen>
+    <dimen name="size_tv_label">16sp</dimen>
+</resources>
